@@ -4,6 +4,7 @@
 
 </header>
 
+
 ## • Conditions
 Nos conditions générales en lien avec le Bot SMP sont écrites à la suite de cette phrase.
 
