@@ -1,9 +1,7 @@
 <header>
-
-# MODALITÉS DES CONDITIONS DE SERVICE (Terms of Service)
-
+	
+# CONDITIONS DE SERVICE (Terms of Service)
 </header>
-
 
 ## • Conditions
 Nos conditions générales en lien avec le Bot SMP sont écrites à la suite de cette phrase.
